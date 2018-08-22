@@ -1,6 +1,6 @@
 # React Challenge
 
-Este é um desafio para testar seus conhecimentos em JavaScript, React e Redux;
+Este é um desafio para testar seus conhecimentos em JavaScript, React, Relay e GraphQl;
 
 Neste teste existem várias respostas corretas, pois o objetivo é avaliar a sua forma de codificação, e suas habilidades usando a tecnologia proposta.
 
