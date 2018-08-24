@@ -44,16 +44,17 @@ O carrinho deve:
   - Não deve permitir o usuário informar quantidade zero;
 - Exibir o somatório total dos itens incluidos;
 
-## Serviço Rest
+## Pré requisitos
+* [ ] React, Relay e Graphql
+* [ ] Use cores do Material Design
+* [ ] Documentar como rodamos servidor do projeto no README.MD
 
-Criar o backend não é o foco deste teste, portanto está sendo disponibilizado um serviço Rest que deve ser utilizado para recuperar a lista de produtos do projeto.
+## Diferenciais
+- Criar issues e resolvê-las a partir de pull requests
+- Documentação no código
+- Arquivos pequenos com poucas responsabilidades
+- Redux
+- Usabilidade e feedback para o usuário no carregamento da consulta
+- Seguir algum Javascript Style Guide
+- Layout responsivo (seja criativo!)
 
-Para rodar o serviço, é necessário instalar o json-server:
-
-`npm install -g json-server`
-
-Após isso, rodar o comando: `json-server --watch rest-api/products.json`
-
-Isso irá disponibilizar uma api REST rodando no endereço http://localhost:3000/products.
-
-Um produto especifico pode ser acessado através da url http://localhost:3000/products/{id};
