@@ -44,11 +44,6 @@ O carrinho deve:
   - Não deve permitir o usuário informar quantidade zero;
 - Exibir o somatório total dos itens incluidos;
 
-## Pré requisitos
-* [ ] React, Relay e Graphql
-* [ ] Use cores do Material Design
-* [ ] Documentar como rodamos servidor do projeto no README.MD
-
 ## Diferenciais
 - Criar issues e resolvê-las a partir de pull requests
 - Documentação no código
